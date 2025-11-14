@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://svitart.github.io",
+  "display": "standalone"
+}
