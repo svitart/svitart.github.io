@@ -1,1 +1,1 @@
-importScripts('https://pxl.demo.altcraft.com/service-worker.js?id=MzkyfDM.');
+importScripts('https://pxl.demo.altcraft.com/service-worker.js?id=MzkyfDc.');
